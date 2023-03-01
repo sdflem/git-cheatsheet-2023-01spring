@@ -2,5 +2,5 @@
 
 ## Team Members
 
-- Zach Burgess
-- Sai Krishna
+
+- Manaswitha Revuri
