@@ -2,4 +2,5 @@
 
 ## Team Members
 
-- Sai Krishna 
+- Zach Burgess
+- Sai Krishna
