@@ -2,5 +2,7 @@
 
 ## Team Members
 
+- Srinivas Hapnoor
 - Zach Burgess
 - Sai Krishna
+
